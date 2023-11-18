@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dataset>
+    <record>
+        <FullStreetName>01ST ST</FullStreetName>
+        <StreetName>01ST</StreetName>
+        <StreetType>ST</StreetType>
+        <PostDirection></PostDirection>
+    </record>
+    <record>
+        <FullStreetName>02ND AVE</FullStreetName>
+        <StreetName>02ND</StreetName>
+        <StreetType>AVE</StreetType>
+        <PostDirection></PostDirection>
+    </record>
+</dataset>
